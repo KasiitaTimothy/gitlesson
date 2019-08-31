@@ -31,3 +31,10 @@ document.addEventListener("DOMContentLoaded", function() {
 | ------ | ---------------- |
 | oston  | oston@gmail.com  |
 | cypher | cypher@yahoo.com |
+
+##languages i know
+
+- [x] Php
+- [x] Javascript
+- [x] python
+- [ ] Ruby -still learning
