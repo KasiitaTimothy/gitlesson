@@ -31,4 +31,3 @@ document.addEventListener("DOMContentLoaded", function() {
 | ------ | ---------------- |
 | oston  | oston@gmail.com  |
 | cypher | cypher@yahoo.com |
-|        |                  |
