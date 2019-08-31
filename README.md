@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function() {
 | oston  | oston@gmail.com  |
 | cypher | cypher@yahoo.com |
 
-##languages i know
+## languages i know
 
 - [x] Php
 - [x] Javascript
