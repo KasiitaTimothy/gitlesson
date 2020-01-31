@@ -15,23 +15,6 @@
 
 [ostoncodecypher](https://ostoncodecypher.com)
 
-`<p>This a paragraph</p>`
-
-```javascript
-document.addEventListener("DOMContentLoaded", function() {
-  console.log("learning markdown");
-});
-```
-
-```sql
-    $sql = "SELECT * FROM customers"
-```
-
-| Name   | Email            |
-| ------ | ---------------- |
-| oston  | oston@gmail.com  |
-| cypher | cypher@yahoo.com |
-
 ## languages i know
 
 - [x] Php
