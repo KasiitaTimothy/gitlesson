@@ -9,8 +9,6 @@
 - git pull
 - git push
 
-> I was also learning Markdowm while learning git
-
 ### This is my site
 
 [ostoncodecypher](https://ostoncodecypher.com)
